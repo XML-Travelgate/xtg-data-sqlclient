@@ -1,2 +1,2 @@
 # xtg-data-sqlclient
-Sql client
+Sql Server Client
