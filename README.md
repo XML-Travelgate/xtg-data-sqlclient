@@ -8,3 +8,4 @@ This library contains four asynchronous methods:
 - ExecQueryWithParamsAsync: execute a query with parameters.
 - ExecProcedureDataTableWithParamsAsync: execute a stored procedure with parameters.
 
+You can download nuget [here](https://www.nuget.org/packages/XTG.DataBase.SqlClient/1.0.1).
