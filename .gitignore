@@ -163,6 +163,3 @@ $RECYCLE.BIN/
 *.xproj
 project.lock.json
 /.vs
-
-#IDEs
-/.vscode
