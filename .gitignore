@@ -5,6 +5,7 @@
 *.suo
 *.user
 *.sln.docstates
+*.sln
 
 # Build results
 
@@ -163,3 +164,6 @@ $RECYCLE.BIN/
 *.xproj
 project.lock.json
 /.vs
+
+#IDEs
+/.vscode
